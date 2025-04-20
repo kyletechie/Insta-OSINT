@@ -4,7 +4,7 @@ A Node.js OSINT tool to extract publicly available information from Instagram pr
 
 ## Installation
 ```bash
-git clone https://github.com/Kairu-bit/Insta-OSINT.git &&
+git clone https://github.com/kyletechie/Insta-OSINT.git &&
 cd Insta-OSINT &&
 npm install 
 ```
